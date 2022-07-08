@@ -1,4 +1,4 @@
-public class ContractedEmployee extends Employee {
+public class ContractedEmployee extends Employee { // наследуется от Employee
   //  fix class declaration and declare variables here
   private double hourlyRate;
   private double numberOfHoursWorked;
